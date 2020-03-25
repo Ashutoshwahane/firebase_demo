@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebaseDemo</string>
+    <string name="sign_in_using_email_authentication">Sign in using Email Authentication</string>
+</resources>
